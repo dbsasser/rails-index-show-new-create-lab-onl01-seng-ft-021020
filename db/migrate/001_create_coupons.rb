@@ -5,4 +5,4 @@ CreateCoupons < ActiveRecord::Migratiton[5.0]
       t.string :store
     end
   end
-end 
+end
